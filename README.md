@@ -1,1 +1,1 @@
-Discontinued - see https://github.com/FriendsOfSymfony/OrnicarMessageBundle
+Discontinued - see https://github.com/FriendsOfSymfony/FOSMessageBundle
